@@ -1,0 +1,1 @@
+[null,{"name":"Member Join Event","temp":"mem","event-type":"6","_id":"BUbWV","actions":[{"channel":"4","varName":"","message":"Welcome ${tempVars(\"mem\")} to the server!\n\n```\nType / to see a list of commands!\n```","buttons":[],"selectMenus":[],"reply":true,"ephemeral":false,"tts":false,"file":"","storage":"0","varName2":"","name":"Send Message"}]}]
